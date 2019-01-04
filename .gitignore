@@ -1,0 +1,4 @@
+# Maven: Archivos compilados
+target/
+*.log
+*.log.*
